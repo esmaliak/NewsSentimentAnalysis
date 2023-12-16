@@ -6,9 +6,7 @@ The onset of the digital age has made the global community more interconnected t
 
 ## Data Download and Ingest
 
-In order to upload the dataset, the following link must be downloaded as an excel sheet.
-
-[Access Dataset Here](https://docs.google.com/spreadsheets/d/1Ytoz2rloeVYmygULXXvHkCrp-9vqHkIF/edit?usp=sharing&ouid=110537451542555653077&rtpof=true&sd=true)
+In order to upload the dataset, the GDELT Database file in this project must be downloaded to the local device as an excel sheet.
 
 Once the dataset is downloaded as an excel on the local device, it must be uploaded to the files section on the left side of the colab notebook. After this is completed, the notebook will be able to load the dataset into a dataframe.
 
