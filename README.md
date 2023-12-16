@@ -12,7 +12,7 @@ In order to upload the dataset, the GDELT Database file in this project must be 
 
 ## Pre and Post Processing 
 
-Before loading the dataset into the dataframe, it is important to process all of the necessary imports that will allow the code to compile. 
+Before running the command which transforms the dataset into the dataframe, it is important to process all of the necessary imports that will allow the code to compile. 
 
     # Imports
     import pandas as pd
@@ -46,6 +46,6 @@ Before loading the dataset into the dataframe, it is important to process all of
     from wordcloud import WordCloud
     from gensim.models import Word2Vec
 
-Since the dataset was manually extracted with its desired features, there are no extra steps needed to process it, outside of the data cleaning, feature engineering, and data transformation done in the colab.  
+Since the dataset was manually extracted with its desired features, there are no extra steps needed to process it, outside of the data cleaning, feature engineering, and data transformation done in the Colab.  
 
-The rest of the notebook should compile accordingly. 
+The rest of the notebook should compile accordingly when run.
